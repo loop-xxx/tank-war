@@ -1,0 +1,65 @@
+﻿生成启动时间为 2017/3/5 20:27:33。
+     1>项目“C:\Users\loop\Desktop\War of Tank\项目源码\War of Tank\War of Tank\War of Tank.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AStart.cpp data.cpp ConsoleTool.cpp Engine.cpp main.cpp Map.cpp Edit.cpp Missile.cpp MissileFactory.cpp Player.cpp Position.cpp RBase.cpp RMiss1.cpp RMiss2.cpp RMiss3.cpp RMiss4.cpp Tank.cpp TankFactory.cpp
+         TankFactory.cpp
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\tankfactory.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+         Tank.cpp
+         RMiss4.cpp
+         RMiss3.cpp
+         RMiss2.cpp
+         RMiss1.cpp
+         RBase.cpp
+         Position.cpp
+         Player.cpp
+         MissileFactory.cpp
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\missilefactory.cpp(70): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\missilefactory.cpp(78): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\missilefactory.cpp(107): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\missilefactory.cpp(115): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\missilefactory.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+         Missile.cpp
+         Edit.cpp
+         Map.cpp
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\map.cpp(103): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+         main.cpp
+         Engine.cpp
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\engine.cpp(142): warning C4018: “<”: 有符号/无符号不匹配
+         ConsoleTool.cpp
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\consoletool.cpp(101): warning C4244: “return”: 从“WORD”转换到“byte”，可能丢失数据
+         data.cpp
+         AStart.cpp
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\astart.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\astart.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\astart.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\astart.cpp(156): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\loop\desktop\war of tank\项目源码\war of tank\war of tank\astart.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\War of Tank.res" "War of Tank.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\loop\Desktop\War of Tank\项目源码\War of Tank\Debug\War of Tank.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\loop\Desktop\War of Tank\项目源码\War of Tank\Debug\War of Tank.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\loop\Desktop\War of Tank\项目源码\War of Tank\Debug\War of Tank.lib" /MACHINE:X86 "Debug\War of Tank.res"
+         Debug\AStart.obj
+         Debug\data.obj
+         Debug\ConsoleTool.obj
+         Debug\Engine.obj
+         Debug\main.obj
+         Debug\Map.obj
+         Debug\Edit.obj
+         Debug\Missile.obj
+         Debug\MissileFactory.obj
+         Debug\Player.obj
+         Debug\Position.obj
+         Debug\RBase.obj
+         Debug\RMiss1.obj
+         Debug\RMiss2.obj
+         Debug\RMiss3.obj
+         Debug\RMiss4.obj
+         Debug\Tank.obj
+         Debug\TankFactory.obj
+         War of Tank.vcxproj -> C:\Users\loop\Desktop\War of Tank\项目源码\War of Tank\Debug\War of Tank.exe
+     1>已完成生成项目“C:\Users\loop\Desktop\War of Tank\项目源码\War of Tank\War of Tank\War of Tank.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.68
